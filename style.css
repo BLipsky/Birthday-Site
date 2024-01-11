@@ -1,4 +1,5 @@
 .top-bar .nav-item {
+    padding-left: 2vw;
     display: inline-block;
   }
   
@@ -52,7 +53,6 @@
   
   a .inner-link {
     display: inline-block;
-    text-size-adjust: 150%;
     transform: skew(25deg)
   }
   
@@ -69,7 +69,12 @@
   }
   
   .brand-logo img {
-    height: 40px;
+    height: 110px;;
+
+
+
+
+
     transform: skew(25deg)
   }
   
@@ -81,16 +86,17 @@
     letter-spacing: 2px;
     height: 0px;
     line-height: 1.5em;
+    text-shadow: 0vw 0vw 1vw black;
     transform: skew(25deg)
   }
   
   .brand-phone,
   .brand-logo {
-    padding: 40px;
+    padding-right: 5vw;
+    padding-top: .5vw;
     position: absolute;
     top: 0;
     height: 120px;
-  
     transform: skewX(-25deg);
   }
   

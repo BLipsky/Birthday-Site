@@ -144,16 +144,21 @@
   border: 5px solid rgb(54, 54, 54);
   margin-left: 13vw;
   margin-top: 3vw;
-  padding: 10px;
+  padding: 20x;
   border-radius: 2vw;
   text-align: center;
+  height: 100%;
  }
  .baby1 {
   width: 120%;
-  height: 93%;
+  height: 80%;
   border: 5px solid rgb(49, 49, 49);
   margin-left: 1.5vw;
   margin-top: 3vw;
   border-radius: 2vw;
   text-align: center;
+ }
+
+ body {
+  overflow-x: hidden;
  }

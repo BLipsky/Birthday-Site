@@ -41,7 +41,7 @@
   a.nav-link {
     border-left: 12px solid transparent;
     border-right: 12px solid transparent;
-    color: #000000;
+    color: #ffffff;
     text-transform: uppercase;
     font-family: '
     Rubik'
@@ -70,10 +70,6 @@
   
   .brand-logo img {
     height: 110px;;
-
-
-
-
 
     transform: skew(25deg)
   }
@@ -116,7 +112,7 @@
     border-left: 3px solid #0049a8;
   }
   .pad {
-    text-shadow: 0vw 0vw 1vw black;
+    text-shadow: 0vw 0vw 1vw rgb(255, 255, 255);
     font-weight: 300px; 
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
 }
@@ -126,4 +122,38 @@
  .line {
     width: 100%;
     border-top: .25vw solid rgb(194, 194, 194);
+ }
+ .lit {
+  border: 5px solid rgb(54, 54, 54);
+  margin-left: 3vw;
+  margin-top: 3vw; 
+  padding: 10px;
+  border-radius: 2vw;
+  text-align: center;
+ }
+ .baby {
+  width: 120%;
+  height: 93%;
+  border: 5px solid rgb(49, 49, 49);
+  margin-left: 3vw;
+  margin-top: 3vw;
+  border-radius: 2vw;
+  text-align: center;
+ }
+ .lit1 {
+  border: 5px solid rgb(54, 54, 54);
+  margin-left: 13vw;
+  margin-top: 3vw;
+  padding: 10px;
+  border-radius: 2vw;
+  text-align: center;
+ }
+ .baby1 {
+  width: 120%;
+  height: 93%;
+  border: 5px solid rgb(49, 49, 49);
+  margin-left: 1.5vw;
+  margin-top: 3vw;
+  border-radius: 2vw;
+  text-align: center;
  }

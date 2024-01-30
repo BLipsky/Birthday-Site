@@ -1,137 +1,136 @@
 .top-bar .nav-item {
-    padding-left: 2vw;
-    display: inline-block;
-  }
-  
-  nav {
-    padding: 0px;
-  }
-  
-  nav.top-bar-wrap {
-    background: #b6b6b6;
-  }
-  
-  .top-bar-wrap {
-    height: 40px;
-    line-height: 40px;
-  }
-  
-  .main-nav-wrap {
-    height: 80px;
-    line-height: 80px;
-  }
-  
-  nav.main-nav-wrap {
-    background: #0049a8;
-    font-size: 1.25rem
-  }
-  
-  nav.top-bar-wrap ul,
-  nav.main-nav-wrap ul {
-    margin-bottom: 0px;
-    margin-top: 0px
-  }
-  
-  a.nav-link:hover {
-    background: rgba(0, 0, 0, 0.2);
-    color: #fff;
-    border-left: 12px solid rgba(0, 0, 0, 0.3);
-  }
-  
-  a.nav-link {
-    border-left: 12px solid transparent;
-    border-right: 12px solid transparent;
-    color: #ffffff;
-    text-transform: uppercase;
-    font-family: '
-    Rubik'
-    ,
-    sans-serif;
-    transform: skew(-25deg);
-    transition: all 400ms ease-out
-  }
-  
-  a .inner-link {
-    display: inline-block;
-    transform: skew(25deg)
-  }
-  
-  .nav-link {
-    padding: 0px;
-  }
-  
-  .top-bar-wrap a {
-    padding-left: 12px;
-  }
-  
-  .main-nav-wrap a {
-    padding-left: 18px;
-  }
-  
-  .brand-logo img {
-    height: 110px;;
-
-    transform: skew(25deg)
-  }
-  
-  .brand-phone a {
-    display: block;
-    font-size: 1.25em;
-    text-decoration: none;
-    color: #5081db;
-    letter-spacing: 2px;
-    height: 0px;
-    line-height: 1.5em;
-    text-shadow: 0vw 0vw 1vw rgb(221, 240, 255);
-    transform: skew(25deg)
-  }
-  
-  .brand-phone,
-  .brand-logo {
-    padding-right: 5vw;
-    padding-top: .5vw;
-    position: absolute;
-    top: 0;
-    height: 120px;
-    transform: skewX(-25deg);
-  }
-  
-  .brand-logo {
-    left: -30px;
-    padding-left: 70px;
-    background: #0049a8;
-    border-right: 2px solid #b6b6b6;
-    
-  }
-  
-  .brand-phone {
-    right: 0;
-    right: -30px;
-    padding-right: 70px;
-    background: #b6b6b6;
-    border-left: 3px solid #0049a8;
-  }
-  .pad {
-    text-shadow: 0vw 0vw 1vw rgb(255, 255, 255);
-    font-weight: 300px; 
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+  padding-left: 2vw;
+  display: inline-block;
 }
- .new {
-    text-align: center;
- }
- .line {
-    width: 100%;
-    border-top: .25vw solid rgb(194, 194, 194);
- }
- .lit {
+
+nav {
+  padding: 0px;
+}
+
+nav.top-bar-wrap {
+  background: #b6b6b6;
+}
+
+.top-bar-wrap {
+  height: 40px;
+  line-height: 40px;
+}
+
+.main-nav-wrap {
+  height: 80px;
+  line-height: 80px;
+}
+
+nav.main-nav-wrap {
+  background: #0049a8;
+  font-size: 1.25rem;
+}
+
+nav.top-bar-wrap ul,
+nav.main-nav-wrap ul {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+a.nav-link:hover {
+  background: rgba(0, 0, 0, 0.2);
+  color: #fff;
+  border-left: 12px solid rgba(0, 0, 0, 0.3);
+}
+
+a.nav-link {
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-family: "Rubik", sans-serif;
+  transform: skew(-25deg);
+  transition: all 400ms ease-out;
+}
+
+a .inner-link {
+  display: inline-block;
+  transform: skew(25deg);
+}
+
+.nav-link {
+  padding: 0px;
+}
+
+.top-bar-wrap a {
+  padding-left: 12px;
+}
+
+.main-nav-wrap a {
+  padding-left: 18px;
+}
+
+.brand-logo img {
+  height: 110px;
+
+  transform: skew(25deg);
+}
+
+.brand-phone a {
+  display: block;
+  font-size: 1.25em;
+  text-decoration: none;
+  color: #5081db;
+  letter-spacing: 2px;
+  height: 0px;
+  line-height: 1.5em;
+  text-shadow: 0vw 0vw 1vw rgb(221, 240, 255);
+  transform: skew(25deg);
+  font-family: 'Comic Sans MS', cursive;
+}
+
+.brand-phone,
+.brand-logo {
+  padding-right: 5vw;
+  padding-top: 0.5vw;
+  position: absolute;
+  top: 0;
+  height: 120px;
+  transform: skewX(-25deg);
+}
+
+.brand-logo {
+  left: -30px;
+  padding-left: 70px;
+  background: #0049a8;
+  border-right: 2px solid #b6b6b6;
+}
+
+.brand-phone {
+  right: 0;
+  right: -30px;
+  padding-right: 70px;
+  background: #b6b6b6;
+  border-left: 3px solid #0049a8;
+}
+.pad {
+  text-shadow: 0vw 0vw 1vw rgb(255, 255, 255);
+  font-weight: 300px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: 'Comic Sans MS', cursive;
+}
+.new {
+  text-align: center;
+}
+.line {
+  width: 100%;
+  border-top: 0.25vw solid rgb(194, 194, 194);
+}
+.lit {
   border: 5px solid rgb(54, 54, 54);
   margin-left: 3vw;
-  margin-top: 3vw; 
+  margin-top: 3vw;
   padding: 10px;
   border-radius: 2vw;
   text-align: center;
- }
- .baby {
+  font-family: "Comic Sans MS", cursive;
+}
+.baby {
   width: 120%;
   height: 93%;
   border: 5px solid rgb(49, 49, 49);
@@ -139,8 +138,8 @@
   margin-top: 3vw;
   border-radius: 2vw;
   text-align: center;
- }
- .lit1 {
+}
+.lit1 {
   border: 5px solid rgb(54, 54, 54);
   margin-left: 13vw;
   margin-top: 3vw;
@@ -148,8 +147,9 @@
   border-radius: 2vw;
   text-align: center;
   height: 100%;
- }
- .baby1 {
+  font-family: "Comic Sans MS", cursive;
+}
+.baby1 {
   width: 120%;
   height: 80%;
   border: 5px solid rgb(49, 49, 49);
@@ -157,8 +157,8 @@
   margin-top: 3vw;
   border-radius: 2vw;
   text-align: center;
- }
+}
 
- body {
+body {
   overflow-x: hidden;
- }
+}

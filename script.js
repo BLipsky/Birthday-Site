@@ -28,15 +28,15 @@ function displayFour(){
 }
 function displayFive(){
 
-    document.getElementById('text1').innerText = ""
-    document.getElementById('text2').innerText = ""
-    document.getElementById('img1').src = '.jpg'
-    document.getElementById('img2').src = '.jpg'
+    document.getElementById('text1').innerText = "On February 23rd, 2007, I came into this world, marking the beginning of my journey through life. Born on a chilly winter day, the significance of the date has always held a special place in my heart. As the years have passed, I've grown, learned, and experienced the beauty and challenges that come with each passing day. Now, as I reflect on that specific day in history, I can't help but feel a sense of excitement to discover and share the other remarkable events that unfolded on February 23rd. From historical milestones to cultural moments, it's intriguing to think about the shared history that connects us all, even beyond the personal significance of my own birth on that particular day. It adds a layer of depth to my own narrative and a sense of connection to the broader tapestry of time."
+    document.getElementById('text2').innerText = "Delving into the historical tapestry of February 23rd reveals a fascinating array of events that have shaped the world. On this day, various breakthroughs, triumphs, and cultural phenomena have left an indelible mark. From scientific discoveries to momentous achievements, the layers of history woven into this date serve as a reminder of the collective human experience. It may be the day where a major event occurs in the future. Only time can tell what the future hold in front of us."
+    document.getElementById('img1').src = 'baby1.jpg'
+    document.getElementById('img2').src = 'baby2.jpg'
 }
 function displaySix(){
 
-    document.getElementById('text1').innerText = ""
-    document.getElementById('text2').innerText = ""
-    document.getElementById('img1').src = '.jpg'
-    document.getElementById('img2').src = '.jpg'
+    document.getElementById('text1').innerText = "On February 23rd, the Russian invasion of Ukraine began, casting a dark shadow over the geopolitical landscape. The incursion, marked by a sudden and forceful military offensive, sent shockwaves through international relations. Tensions had been escalating for months, with diplomatic efforts failing to prevent the eruption of hostilities. The invasion, characterized by poor and uncoordinated maneuvers, raised concerns about the stability of the region and the potential for broader conflict. The international community condemned the actions of Russia, urging a peaceful resolution to the crisis. The events of that day underscored the fragility of geopolitical relations and the urgent need for diplomatic solutions to prevent further escalation."
+    document.getElementById('text2').innerText = "The world watched with growing unease as the hypothetical Russian invasion of Ukraine continued to unfold in the days following February 23rd. Reports emerged detailing the displacement of civilians, the destruction of infrastructure, and the engagement of military forces on both sides. The conflict stirred a flurry of diplomatic activity, with nations around the globe condemning the aggression and calling for an immediate ceasefire. As the situation on the ground intensified, the specter of a wider regional conflict loomed large. The United Nations convened emergency sessions to address the crisis, but finding a consensus among the divided international community proved challenging. The invasion on February 23rd marked a critical turning point, not only for Ukraine but also for the delicate balance of power in the broader geopolitical landscape."
+    document.getElementById('img1').src = 'Russia1.svg'
+    document.getElementById('img2').src = 'Russia2.jpg'
 }

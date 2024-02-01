@@ -293,3 +293,6 @@ color: white;
 .close:focus {
   color: #000;
 }
+.textsi {
+  font-size: 2vw;
+}
